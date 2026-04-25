@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference this software, please cite it using the metadata below."
+type: software
+title: "KEC Archives: An Academic Platform for Krishna Engineering College"
+version: 1.0.0
+date-released: "2026-04-26"
+license: MIT
+url: "https://kecarchives.com"
+repository-code: "https://github.com/humairaambreen/kecarchives"
+doi: 10.5281/zenodo.XXXXXXX
+abstract: >
+  KEC Archives is a full-featured academic platform for Krishna Engineering
+  College, Bhilai. It provides verified, role-based communication for students,
+  faculty, and staff — replacing informal WhatsApp groups with a structured
+  system that supports scoped posts, direct messaging, group chat, audio/video
+  calls, AI-assisted post creation, subject management, and role dashboards.
+keywords:
+  - academic platform
+  - student communication
+  - role-based access
+  - Next.js
+  - FastAPI
+  - engineering college
+authors:
+  - family-names: Ambreen
+    given-names: Humaira
+    alias: humairaambreen
+    affiliation: "Krishna Engineering College, Bhilai"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo DOI for v1.0.0"
+  - type: url
+    value: "https://github.com/humairaambreen/kecarchives-web"
+    description: "Frontend repository (Next.js)"
+  - type: url
+    value: "https://github.com/humairaambreen/kecarchives-api"
+    description: "Backend repository (FastAPI)"

@@ -1,0 +1,49 @@
+{
+  "title": "KEC Archives: An Academic Platform for Krishna Engineering College",
+  "description": "KEC Archives is a full-featured academic platform for Krishna Engineering College, Bhilai. It provides verified, role-based communication for students, faculty, and staff — replacing informal WhatsApp groups with a structured system that supports scoped posts, direct messaging, group chat, audio/video calls, AI-assisted post creation, subject management, and role dashboards. Built with Next.js 15 (frontend) and Python FastAPI (backend), deployed on Vercel with Supabase PostgreSQL.",
+  "version": "1.0.0",
+  "publication_date": "2026-04-26",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Ambreen, Humaira",
+      "affiliation": "Krishna Engineering College, Bhilai"
+    }
+  ],
+  "keywords": [
+    "academic platform",
+    "student communication",
+    "role-based access control",
+    "Next.js",
+    "FastAPI",
+    "engineering college",
+    "PWA",
+    "real-time messaging",
+    "AI post assistant"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/humairaambreen/kecarchives",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/humairaambreen/kecarchives-web",
+      "relation": "hasPart",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/humairaambreen/kecarchives-api",
+      "relation": "hasPart",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kecarchives.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "access_right": "open"
+}
