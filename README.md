@@ -1,5 +1,6 @@
 # KEC Archives
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19771053.svg)](https://doi.org/10.5281/zenodo.19771053)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/humairaambreen/kecarchives/releases/tag/v1.0.0)
 [![Live](https://img.shields.io/badge/live-kecarchives.com-brightgreen)](https://kecarchives.com)
@@ -133,7 +134,8 @@ First production release. Full feature set deployed on Vercel with Supabase Post
   year      = 2026,
   publisher = {Zenodo},
   version   = {v1.0.0},
-  url       = {https://kecarchives.com}
+  doi       = {10.5281/zenodo.19771053},
+  url       = {https://doi.org/10.5281/zenodo.19771053}
 }
 ```
 
