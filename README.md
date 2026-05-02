@@ -1,7 +1,7 @@
 # KEC Archives
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19771053.svg)](https://doi.org/10.5281/zenodo.19771053)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/humairaambreen/kecarchives/releases/tag/v1.0.0)
 [![Live](https://img.shields.io/badge/live-kecarchives.com-brightgreen)](https://kecarchives.com)
 
@@ -143,4 +143,4 @@ First production release. Full feature set deployed on Vercel with Supabase Post
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file for details.  Any derivative work must be released under GPL-3.0, must publicly credit **Humaira Ambreen** as the original author, and must link back to the original repository.
