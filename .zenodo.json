@@ -3,7 +3,7 @@
   "description": "KEC Archives is a full-featured academic platform for Krishna Engineering College, Bhilai. It provides verified, role-based communication for students, faculty, and staff — replacing informal WhatsApp groups with a structured system that supports scoped posts, direct messaging, group chat, audio/video calls, AI-assisted post creation, subject management, and role dashboards. Built with Next.js 15 (frontend) and Python FastAPI (backend), deployed on Vercel with Supabase PostgreSQL.",
   "version": "1.0.0",
   "publication_date": "2026-04-26",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "upload_type": "software",
   "creators": [
     {
